@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class Griesser_Jonathan_JM2A2_Variable {
+public class Variable {
     public static void main(String[] args){
-    String name =  "Informatik";
+    String name =  "Info";
     int zahl1 = 5;
     double zahl2 = 59.89;
     char c = 'L';
